@@ -1,6 +1,4 @@
 # Fashion MNIST Classification using CNN
-![Customer Churn Project](https://static.wixstatic.com/media/a96b4b_1b0c0dadfbd64f64a7fc7ef486132e2b~mv2.png/v1/fill/w_710,h_351,al_c,q_85,enc_auto/a96b4b_1b0c0dadfbd64f64a7fc7ef486132e2b~mv2.png)
----
 
 ## Project Overview
 
