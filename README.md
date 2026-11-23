@@ -28,21 +28,14 @@ To solve Arabic issues in visualization, the following libraries were utilized:
 
 | | Link |
 |---|---|
-| Live demo (Streamlit) | TODO: add your Streamlit app URL |
-| Model (Hugging Face) | TODO: add https://huggingface.co/<user>/fashion-mnist-cnn |
+| Live demo (Streamlit) | add your Streamlit app URL |
+| Model (Hugging Face) | add https://huggingface.co/<user>/fashion-mnist-cnn |
 | Notebook | [`Fashion_Mnist.ipynb`](Fashion_Mnist.ipynb) |
-
-## Other Links
-
-- - **LinkedIn:** [Click here to watch](https://www.linkedin.com/posts/o2204_%D9%83%D9%84%D9%86%D8%A7-%D8%AA%D9%82%D8%B1%D9%8A%D8%A8%D8%A7-%D8%AA%D8%B9%D8%A7%D9%85%D9%84%D9%86%D8%A7-%D9%85%D8%B9-fashion-mnist-%D9%81%D9%8A-activity-7331788007861018624-6NtH/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3InlYBg47QtQUB-CFNvF5Qq3TB0NZRmZI)
-- - **Kaggle:** [https://www.kaggle.com/code/omaratef200/fashion-mnist]
-
----
 
 ## 💬 Feedback and Collaboration
 
 Feel free to connect with me on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/o2204)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/hishammislhy)  
 for feedback or potential collaboration!
 
 ---
