@@ -35,7 +35,7 @@ To solve Arabic issues in visualization, the following libraries were utilized:
 ## 💬 Feedback and Collaboration
 
 Feel free to connect with me on  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/hishammislhy)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/hishammislhy)]  
 for feedback or potential collaboration!
 
 ---
